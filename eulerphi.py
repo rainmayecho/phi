@@ -110,4 +110,4 @@ def time_phi_fact2(n, primes):
     print phi_fact(n, primes)
     print str(time.clock()-t)+' seconds'    
     
-    
+##
